@@ -4,7 +4,7 @@
 ## Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-## 🔹 DAX Queries
+## 📈 DAX Queries
  AgeGroup = SWITCH(
  TRUE(),
  'public cust_detail'[customer_age] < 30, "20-30",
@@ -46,6 +46,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 
 ## ⚡ Tech Stack
+- Power BI: Data Cleaning, Data modeling, DAX calculations, and visualization.
+- Data Sources: CSV/Excel files, SQL databases, or live data connections.
 
 ## 🚀 Use Case:
 
