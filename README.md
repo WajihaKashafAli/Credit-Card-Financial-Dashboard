@@ -42,8 +42,11 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 
 ## 📂 Dataset used
-- <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Order.csv">Dataset</a>
-- <a href="https://github.com/WajihaKashafAli/E-Commerce-Sales-Dashboard/blob/main/Details.csv">Dataset</a>
+- <a href="https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/credit_card.csv">Dataset</a>
+- <a href="https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/customer.csv">Dataset</a>
+- <a href="https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/cust_add.csv">Dataset</a>
+- <a href="https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/cc_add.csv">Dataset</a>
+
 
 ## ⚡ Tech Stack
 
@@ -57,6 +60,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 ## 📊 Dashboard
 ![CreditCardCustomerReport](https://github.com/user-attachments/assets/2ea321e3-91fa-4d9c-9eb6-0384de763cd9)
+
 ![CreditCardTransactionReport](https://github.com/user-attachments/assets/1f70fdf8-c838-4395-abb9-a51998add98e)
 
 
