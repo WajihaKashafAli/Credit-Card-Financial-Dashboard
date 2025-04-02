@@ -1,10 +1,8 @@
 
 # 💳 Credit-Card-Financial-Dashboard
-PowerBI Dashboard
 
 ## Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
-
 
 ## 🔹 DAX Queries
  AgeGroup = SWITCH(
@@ -40,7 +38,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
  ALL('public cc_detail'),
  'public cc_detail'[week_num2] = MAX('public cc_detail'[week_num2])-1)
 
-
 ## 📂 Dataset used
 - <a href="https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/credit_card.csv">Dataset</a>
 - <a href="https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/customer.csv">Dataset</a>
@@ -62,10 +59,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![CreditCardCustomerReport](https://github.com/user-attachments/assets/2ea321e3-91fa-4d9c-9eb6-0384de763cd9)
 
 ![CreditCardTransactionReport](https://github.com/user-attachments/assets/1f70fdf8-c838-4395-abb9-a51998add98e)
-
-
-
-
 
 
 ## 🔍 Project Insights - Week 53 (31st Dec)
