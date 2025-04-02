@@ -61,6 +61,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
   - Overall revenue is 57M 
   - Total interest is 8M
   - Total transaction amount is 46M
+  - Total income is 587.6M
+  - Total customer satisfaction score is 3.2
   - Male customers are contributing more in revenue 31M, female 26M
   - Blue & Silver credit card are contributing to 93% of overall transactions
   - TX, NY & CA is contributing to 68%
@@ -73,4 +75,3 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![CreditCardTransactionReport](https://github.com/user-attachments/assets/1f70fdf8-c838-4395-abb9-a51998add98e)
 
 
-## 🏁 Final Conclusion:
