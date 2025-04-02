@@ -1,4 +1,4 @@
-
+ 
 # 💳 Credit-Card-Financial-Dashboard
 
 ## Project Objective
@@ -49,37 +49,28 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Power BI: Data Cleaning, Data modeling, DAX calculations, and visualization.
 - Data Sources: CSV/Excel files, SQL databases, or live data connections.
 
-## 🚀 Use Case:
 
-## 🧠 Key Questions (KPIs)
+## 🔍 Project Insights - Week 53 (31st Dec)
+  WoW change:
+  - Revenue increased by 28.8%, 
+  - Total Transaction Amt & Count increased by 123.54% & 96.59%
+  - %GT Average of income 110.64%
+  - Customer count increased by 667.2K
 
-
-## ⚙️ Process
-
+  Overview YTD:
+  - Overall revenue is 57M 
+  - Total interest is 8M
+  - Total transaction amount is 46M
+  - Male customers are contributing more in revenue 31M, female 26M
+  - Blue & Silver credit card are contributing to 93% of overall transactions
+  - TX, NY & CA is contributing to 68%
+  - Overall Activation rate is 57.5%
+  - Overall Delinquent rate is 6.06%
 
 ## 📊 Dashboard
 ![CreditCardCustomerReport](https://github.com/user-attachments/assets/2ea321e3-91fa-4d9c-9eb6-0384de763cd9)
 
 ![CreditCardTransactionReport](https://github.com/user-attachments/assets/1f70fdf8-c838-4395-abb9-a51998add98e)
-
-
-## 🔍 Project Insights - Week 53 (31st Dec)
-WoW change:
-- Revenue increased by 28.8%, 
-- Total Transaction Amt & Count increased by 123.54% & 96.59%
-- %GT Average of income 110.64%
-- Customer count increased by 667.2K
-
-Overview YTD:
-- Overall revenue is 57M 
-- Total interest is 8M
-- Total transaction amount is 46M
-- Male customers are contributing more in revenue 31M, female 26M
-- Blue & Silver credit card are contributing to 93% of overall transactions
-- TX, NY & CA is contributing to 68%
-- Overall Activation rate is 57.5%
-- Overall Delinquent rate is 6.06%
-
 
 
 ## 🏁 Final Conclusion:
