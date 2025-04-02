@@ -1,2 +1,2 @@
 # Credit-Card-Financial-Dashboard
-PowerBI
+PowerBI Dashboard
