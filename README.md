@@ -56,10 +56,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 
 ## 📊 Dashboard
-![Dashboard](https://github.com/user-attachments/assets/29303346-b3e9-4555-92c5-b4041c92bdaf)
-![Dashboard-1](https://github.com/user-attachments/assets/146733a8-c6b7-4f92-a045-3955ddf7183b)
-![Dashboard-2](https://github.com/user-attachments/assets/9f039141-e539-4760-a3b5-7b6c7a1a3be1)
-https://github.com/WajihaKashafAli/Credit-Card-Financial-Dashboard/blob/main/Credit_Card_Customer_Report.pdf
+![CreditCardCustomerReport](https://github.com/user-attachments/assets/2ea321e3-91fa-4d9c-9eb6-0384de763cd9)
+![CreditCardTransactionReport](https://github.com/user-attachments/assets/1f70fdf8-c838-4395-abb9-a51998add98e)
 
 
 
